@@ -1,0 +1,49 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/miriamsallnas/Documents/projects/library_challenge/library-challenge/spec/library_challenge_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/miriamsallnas/Documents/projects/library_challenge/library-challenge/lib/library_challenge.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1535833736
+  }
+}
